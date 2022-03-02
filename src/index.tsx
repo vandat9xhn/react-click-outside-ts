@@ -1,3 +1,4 @@
-import ClickingOutSide from './components/clicking_out_side/ClickingOutSide';
+import ClickingOutSide from './components/clicking_outside/ClickingOutSide';
+import ClickingOutSideFull from './components/clicking_outside_full/ClickingOutSideFull';
 
-export { ClickingOutSide };
+export { ClickingOutSide, ClickingOutSideFull };
